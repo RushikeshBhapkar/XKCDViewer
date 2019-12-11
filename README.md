@@ -17,8 +17,7 @@ This app is used to show the XKCD comics.It follows MVVM architecture.
 2. Search comic by comic number
 <p align="center">
   <img src="https://raw.githubusercontent.com/RushikeshBhapkar/XKCDViewer/master/Screenshots/2.png" width="250">
-    <img src="https://raw.githubusercontent.com/RushikeshBhapkar/XKCDViewer/master/Screenshots/3.png" width="250">
-	  <img src="https://raw.githubusercontent.com/RushikeshBhapkar/XKCDViewer/master/Screenshots/4.png" width="250">
+  <img src="https://raw.githubusercontent.com/RushikeshBhapkar/XKCDViewer/master/Screenshots/3.png" width="250">
 </p>
 <br>
 3. Bookmark comic to see it in offline mode
@@ -29,6 +28,13 @@ This app is used to show the XKCD comics.It follows MVVM architecture.
 4. Share : Share link, Share image
 <p align="center">
   <img src="https://raw.githubusercontent.com/RushikeshBhapkar/XKCDViewer/master/Screenshots/5.png" width="250">
-    <img src="https://raw.githubusercontent.com/RushikeshBhapkar/XKCDViewer/master/Screenshots/7.png" width="250">
+  <img src="https://raw.githubusercontent.com/RushikeshBhapkar/XKCDViewer/master/Screenshots/7.png" width="250">
 </p>
 <br>
+5. Speech support : When user taps on speaker icon it will read the comic for the user
+<p align="center">
+   <img src="https://raw.githubusercontent.com/RushikeshBhapkar/XKCDViewer/master/Screenshots/4.png" width="250">
+</p>
+<br>
+
+
