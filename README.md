@@ -1,6 +1,6 @@
 #Android  XKCD Comic Viewer 
 
-This app is used to show the XKCD comics I have used MVVM architecture in this project.
+This app is used to show the XKCD comics.It follows MVVM architecture.
 
 #### The app has following packages:
 1. **db**: It contains all the data accessing and manipulating components.
